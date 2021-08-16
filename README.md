@@ -45,7 +45,7 @@ Then that will be shown on the page, and added to their transaction history when
 
 ## Application Links
 * [Github](https://github.com/AlCharl88/BudgetTracker)
-* [Heroku Live Deployment](https://git.heroku.com/warm-lake-26156.git)
+* [Heroku Live Deployment](https://warm-lake-26156.herokuapp.com/)
 
 ## Contact 
 
